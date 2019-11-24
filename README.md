@@ -60,7 +60,7 @@ Use the zip function to implement enumerate, which pairs the elements of a seque
 >>> [[1, 'maps'], [2, 21], [3, 47]]
 Make sure your solution is only one line and uses the zip function and a range.
 
-<h3> Problem 1 (1 pt)</h/3> 
+<h3> Problem 1 (1 pt)</h3> 
 
 Implement the mean function which takes in a sequence of numbers, s, and returns the arithmetic mean, or average, of that sequence. The sequence cannot be empty: add an assert statement to ensure that empty sequences are not allowed.
 
