@@ -1,6 +1,8 @@
+# Yelp Maps
+
 ![voronoi](https://user-images.githubusercontent.com/42657760/69490818-af019100-0e41-11ea-925a-f045b70a61a9.png)
 
-<h1> Introduction </h1>
+<h2> Introduction </h2>
 
 In this project, you will create a visualization of restaurant ratings using machine learning and the Yelp academic dataset. In this visualization, Berkeley is segmented into regions, where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star). Specifically, the visualization you will be constructing is a Voronoi diagram.
 
